@@ -4,20 +4,30 @@
 
 Welcome!
 
-> 官网:tarnimawa.github.io
+> 官网:https://tarnimawa.github.io
 
-##有关我们的服务说明
+> Our pages:https://tarnimawa.github.io
 
-* 我们有权不对朝鲜等任何国家提供服务。
+## 有关我们的服务说明
 
-##特别鸣谢
+* **我们有权不向朝鲜等任何国家提供服务。**
+  
+* **We have the right not to provide services to countries such as North Korea.**
+
+## 特别鸣谢
 
 *@TarNIM* 主要开发者
 
-我们由衷的感谢上述用户。
+*@TarNIM* The main developer
 
-##联系我们
+我们由衷的感谢上述人员。
+
+Thanks for these user.
+
+## 联系我们
 
 若您有任何需求请联系：
+
+If you have any questions, please contact us:
 
 > e-mail:tarnim11@tutamail.com
